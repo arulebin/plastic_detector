@@ -1,6 +1,4 @@
 from ultralytics import YOLO
-from playsound import playsound
-from gtts import gTTS
 import winsound
 frequency = 2500 
 duration = 1000  
